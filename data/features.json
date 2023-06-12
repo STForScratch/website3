@@ -1,0 +1,458 @@
+[
+    {
+        "title": "Emoji Statuses",
+        "description": "Set the status on your profile to an emoji. Other ScratchTools users will be able to see this status."
+    },
+    {
+        "title": "Display Names",
+        "description": "Shows display names for Scratchers, and allows you to set your own display name. Display names show next to your username, and aren't limited like usernames are."
+    },
+    {
+        "title": "Show if User is Online",
+        "description": "On profile pages, displays if a user is online. This will also let other users see if you are online."
+    },
+    {
+        "title": "Plain Background",
+        "description": "Removes the dots from the background of the code editor."
+    },
+    {
+        "title": "Hide Ads in Comments",
+        "description": "Hides advertisements in the comments of profiles, projects, and studios. They can take up a lot of space in the comments."
+    },
+    {
+        "title": "Hide Block Category Names",
+        "description": "Changes the block categories in the editor to only show the colors of the categories."
+    },
+    {
+        "title": "Unlisted Projects",
+        "description": "Allows you to generate share links for unshared projects in the editor."
+    },
+    {
+        "title": "Show Percentages for Project Stats",
+        "description": "On the my stuff page, hover over the number of loves, favorites or remixes to view what percent of viewers performed the action."
+    },
+    {
+        "title": "Clone Counter",
+        "description": "Displays the total number of clones in the project above, in the stage header."
+    },
+    {
+        "title": "Colored Shadows",
+        "description": "Replaces the shadow created when you drag a block near another block with the color of the block that is being moved."
+    },
+    {
+        "title": "Author Badge",
+        "description": "Adds a badge next to comments written by the author of the project."
+    },
+    {
+        "title": "Original Buttons",
+        "description": "Returns the original love, favorite, remix, and view buttons to the Scratch project pages."
+    },
+    {
+        "title": "Content Box Shadows",
+        "description": "Adds shadows on all content boxes. When hovering one, the shadow will darken."
+    },
+    {
+        "title": "Nicknames",
+        "description": "Set nicknames for other Scratchers. Only you can see the nicknames, and their username will be replaced with the nickname when you see their name."
+    },
+    {
+        "title": "Load More Posts",
+        "description": "Load more posts in the forum without having to switch pages."
+    },
+    {
+        "title": "Scroll Project Titles",
+        "description": "Allows you to scroll and view the entire title of projects that you don't own."
+    },
+    {
+        "title": "Search Context Menus",
+        "description": "Easily search context menus to select an option efficiently. You can also press enter to select the top option."
+    },
+    {
+        "title": "User Hover Cards",
+        "description": "Hover over any username on the website to display the profile picture, username and follower count."
+    },
+    {
+        "title": "Exact Join Date",
+        "description": "Displays the exact time that a user joined, shown on their profile."
+    },
+    {
+        "title": "Shortcuts for Starting and Stopping Projects",
+        "description": "To start and stop a project you can use Control+G or Command+G (for Mac users)."
+    },
+    {
+        "title": "Direct image uploads in the forums",
+        "description": "Allows you to easily upload images to the Scratch forums for posts and signatures without having to use third party image uploading services."
+    },
+    {
+        "title": "Leave Studio Button",
+        "description": "Adds a button to the curators page of any studios you curate or manage that allows you to easily leave the studio. A confirmation shows first."
+    },
+    {
+        "title": "Show User Statistics",
+        "description": "Replaces the 'What I've been doing' section on a profile page with the user's statistics."
+    },
+    {
+        "title": "Frontpage Curator Name as Link",
+        "description": "Makes the name of the Frontpage Curator to a clickable link to his profile."
+    },
+    {
+        "title": "Minimized Remix Credits",
+        "description": "The remix credit boxes for projects take space from the project Instructions, so this makes the box smaller."
+    },
+    {
+        "title": "Show if Following on Profile",
+        "description": "If a user is following you, it will show next to their username when you visit their profile."
+    },
+    {
+        "title": "Custom Studio Section",
+        "description": "On the homepage of the Scratch website, the newest projects from the studio of your choice are displayed above the Featured Projects."
+    },
+    {
+        "title": "Highlight Unanswered Forum Topics",
+        "description": "Adds a blue highlight to topics in the forums that have no replies."
+    },
+    {
+        "title": "Hide Project Tags",
+        "description": "Hides all linked tags in the Instructions/Notes and Credits of projects."
+    },
+    {
+        "title": "Search Assets",
+        "description": "Easily search through costume and sound assets in the editor."
+    },
+    {
+        "title": "Block Count in My Stuff",
+        "description": "Displays the block count for projects on the My Stuff page."
+    },
+    {
+        "title": "Block Individual Studio Activity",
+        "description": "Disable studio activity messages from specific studios."
+    },
+    {
+        "title": "Pause Audio",
+        "description": "Allows you to pause and resume audio in the sound editor of Scratch projects."
+    },
+    {
+        "title": "Display Message Count",
+        "description": "Displays your current message count in the extension icon for ScratchTools."
+    },
+    {
+        "title": "Colored Context Menus",
+        "description": "Like in Scratch 2.0, colors the context menus based on the color of the block they're for."
+    },
+    {
+        "title": "Stage on Left Side",
+        "description": "Like in Scratch 2.0, moves the stage to the left side of the editor, rather than keeping it on the right."
+    },
+    {
+        "title": "Project Title Above Stage",
+        "description": "Like in Scratch 2.0, moves the project title input box above the stage, rather than in the navbar. This only applies to the editor."
+    },
+    {
+        "title": "Hide Disabled Context Menu Options",
+        "description": "Context menu options in the editor show even if they are disabled and unable to be used, so this feature will hide them if they are."
+    },
+    {
+        "title": "Dumpster Fire",
+        "description": "The Scratch homepage is a liar with their \"Featured Projects\" section. This changes the name to the proper form, which is \"Dumpster Fire\"."
+    },
+    {
+        "title": "Follower Count on Projects",
+        "description": "Displays the follower count of the project creator on their projects."
+    },
+    {
+        "title": "Hide Studio Frames",
+        "description": "Removes the odd frames from around studio images on 2.0 pages."
+    },
+    {
+        "title": "Hide Project Instructions and Notes and Credits Labels",
+        "description": "The instructions and notes and credits labels take up quite a bit of space where there could be usual information. This removes them."
+    },
+    {
+        "title": "Search Trending by Default",
+        "description": "Currently, when you search projects on the Scratch website, you automatically search with the popular filter, instead of trending."
+    },
+    {
+        "title": "Infinite Backpack Scrolling",
+        "description": "Scroll through the backpack until you reach the very end (does take some time to load, but loads automatically)."
+    },
+    {
+        "title": "Preview Textboxes",
+        "description": "Preview your profile About Me and What I'm Working On, and your projects' Instructions and Notes and Credits, so that you can see what it will look like to other users!"
+    },
+    {
+        "title": "Hide Studio Activity Messages",
+        "description": "Hide the studio activity messages from the messages page- they pile up quickly and can get annoying."
+    },
+    {
+        "title": "Default to Local",
+        "description": "When creating a variable, sets the default to For This Sprite Only, rather than For All Sprites."
+    },
+    {
+        "title": "More Editor Fonts",
+        "description": "Adds more fonts to choose from in the paint editor. They look nicer and are more modern."
+    },
+    {
+        "title": "Display Project Tags",
+        "description": "Lists all of the tags used in the project description right below the project notes and credits."
+    },
+    {
+        "title": "Link Featured Projects to Studio",
+        "description": "Links the Featured Projects box on the homepage to the Propose Projects to Be Featured studio."
+    },
+    {
+        "title": "Set List Item to Last",
+        "description": "Right click a 'get item [number] of [list]' to set it to select the very last item in the selected list."
+    },
+    {
+        "title": "Online Scratchers in Multiplayer Game",
+        "description": "On project pages, displays all of the Scratchers currently in that multiplayer game."
+    },
+    {
+        "title": "2.0 Editor",
+        "description": "Replaces the default 3.0 online project editor with the 2.0 editor. It's nostalgic, really."
+    },
+    {
+        "title": "Comment On Profile With Comments Closed",
+        "description": "If your profile comments are closed, you can now comment on your own profile anyways! Only you can comment on the profile."
+    },
+    {
+        "title": "Open in TurboWarp from Editor",
+        "description": "Adds a button to the editor so that you can instantly open the current project in TurboWarp."
+    },
+    {
+        "title": "Sprite Clone Counter",
+        "description": "Displays the clone count for each individual sprite."
+    },
+    {
+        "title": "Block Log",
+        "description": "Logs and displays all undo information for the block editor when you press ctrl+shift+l."
+    },
+    {
+        "title": "Scrollable List Items",
+        "description": "List items that have a value longer than the width of the list itself will get cut off. Now, you can scroll left and right through the list item."
+    },
+    {
+        "title": "Message Indicator Red for Admin Messages",
+        "description": "If you have an admin notification from the Scratch Team, the message indicator in the navigation bar will display red instead of orange."
+    },
+    {
+        "title": "Custom Website Font",
+        "description": "On the Scratch website, you can set the font to whatever font you want, as long as it is on the Google Fonts website. This is case-sensitive."
+    },
+    {
+        "title": "Project Timer",
+        "description": "Displays the amount of time (in seconds) that the project has been running for."
+    },
+    {
+        "title": "Colored Editor Comments",
+        "description": "Colors comments in the editor based on the color of their parent block."
+    },
+    {
+        "title": "Recently Viewed Projects",
+        "description": "Adds a tab to the My Stuff page where you can see a list of the projects that you have recently viewed."
+    },
+    {
+        "title": "Anti Generic",
+        "description": "On the explore and trending pages, this beta feature automatically hides repetitive projects, along with projects that it expects are generic. This includes projects with a lot of tags, common names, and project duplicates."
+    },
+    {
+        "title": "Collapse Blocks",
+        "description": "Right-click block menus in the editor include a button that will let you collapse the selected block."
+    },
+    {
+        "title": "Set Featured Project",
+        "description": "On any project page, you can easily set your profile's featured project with the click of a button- even unshared projects."
+    },
+    {
+        "title": "ScratchFormat",
+        "description": "Format your comments with bold, italic, and more! The comments will look amazing to everyone using ScratchTools."
+    },
+    {
+        "title": "Expand Editor",
+        "description": "Use the ctrl+e to easily switch between the default block editor view and one that hides the stage to expand editor itself!"
+    },
+    {
+        "title": "Sprite List",
+        "description": "Replaces the sprite grid in the editor with a list that includes the block count and position of the sprite."
+    },
+    {
+        "title": "Check if Trending",
+        "description": "If a project you're viewing is on the trending page, the place on the trending page will be shown next to the share date on the project page."
+    },
+    {
+        "title": "Link Users in Forum Activity",
+        "description": "In the forums' last post section, makes the usernames link to the user's profile."
+    },
+    {
+        "title": "Hide Forum Category Counts",
+        "description": "Hides the forum homepage topic and post boxes."
+    },
+    {
+        "title": "Forum Category Emojis",
+        "description": "Adds colorful emojis on the forum homepage categories based on their topic."
+    },
+    {
+        "title": "Hide Forum Collapse Buttons",
+        "description": "Hides the collapse buttons on the forum main page."
+    },
+    {
+        "title": "Pin Projects to My Stuff",
+        "description": "Pin one of your projects to the top of your My Stuff page with the click of a button! You can unpin your pinned project or switch out your pinned project for another one as well!"
+    },
+    {
+        "title": "Last Key Pressed",
+        "description": "On any project page and in the editor, you can view the last key that you have pressed while on that project, according to the project itself! This is good for games such as platformers."
+    },
+    {
+        "title": "Hide Forum Signatures",
+        "description": "Hides all forum signatures and signature dividers."
+    },
+    {
+        "title": "Better Forum Emojis",
+        "description": "Replaces the current low resolution forum emojis with high quality Twemojis."
+    },
+    {
+        "title": "Go to Parent Button",
+        "description": "In the editor for any project that is a remix, you can click a button to go to the editor in the parent project."
+    },
+    {
+        "title": "Most Popular Project",
+        "description": "Displays the most popular project (by views) of the user on profile pages. You can click on the project to view it."
+    },
+    {
+        "title": "Block Users",
+        "description": "Hide messages on the messages page that are created by users that you have blocked (includes a block page)."
+    },
+    {
+        "title": "Editor Dark Mode",
+        "description": "Is light to bright in the editor? Now you can enjoy darkness in the editor, with a beautiful dark theme."
+    },
+    {
+        "title": "Hide Studio Group Icon",
+        "description": "Hides the studio group icon, and only shows the studio thumbnail."
+    },
+    {
+        "title": "2.0 Block Colors",
+        "description": "Replaces the colors of the blocks in the editor with the blocks from the 2.0 version of the code editor."
+    },
+    {
+        "title": "Colored Messages",
+        "description": "Colors your messages based on the type of message, such as loves, favorites, and studio invites!"
+    },
+    {
+        "title": "Full Project Title",
+        "description": "On profile pages, hover over any project title to show the full title."
+    },
+    {
+        "title": "Project Link as Title",
+        "description": "In profile and project comments, project links in comments are replaced with their titles."
+    },
+    {
+        "title": "Fix Content Boxes",
+        "description": "Makes all sides of boxes on the pages rounded, rather than just the tops."
+    },
+    {
+        "title": "User Bio on Hover",
+        "description": "In profile comments, hover over any username to display the user's bio."
+    },
+    {
+        "title": "NFE Project Checker",
+        "description": "On project pages, displays whether the project is Safe, Unreviewed, or NSFE (Not Safe for Everyone)."
+    },
+    {
+        "title": "Advanced Search",
+        "description": "Replaces the basic search that Scratch uses with a much better and smarter search."
+    },
+    {
+        "title": "Display Sprite Data",
+        "description": "In the Code, Costumes, and Sounds tab for each sprite, the number of blocks, costumes, and sounds will be displayed for the current sprite."
+    },
+    {
+        "title": "Aviate Statuses",
+        "description": "Displays Aviate statuses on profile pages. You can set your status at aviateapp.eu.org."
+    },
+    {
+        "title": "Project Idea Generator",
+        "description": "On the Scratch Ideas page, there will be a section where you can generate project ideas if you need some!"
+    },
+    {
+        "title": "Hide Forum Stickies",
+        "description": "Hides the basic stickies from the top of each forum topic."
+    },
+    {
+        "title": "More Tutorials",
+        "description": "Adds extra tutorials to the ideas page."
+    },
+    {
+        "title": "NFE Search",
+        "description": "Use a button to search all projects, including NFE ones."
+    },
+    {
+        "title": "Statistics",
+        "description": "Adds a statistics button on the my stuff page that leads to the user's ScratchStats profile."
+    },
+    {
+        "title": "Open in New Tab",
+        "description": "Automatically opens links on project pages in a new tab."
+    },
+    {
+        "title": "Unbold Site Text",
+        "description": "Makes it so that all text across Scratch is unbolded, and just normal text!"
+    },
+    {
+        "title": "Compact Navbar",
+        "description": "Makes more room on the navigation bar near where your profile dropdown is."
+    },
+    {
+        "title": "Delete All Sprites",
+        "description": "Adds an option in the right-click context menu for sprites. It will delete all sprites (after confirmation to make sure it isn't an accident)."
+    },
+    {
+        "title": "Round Profile Pictures",
+        "description": "All profile pictures on the Scratch website will be rounded."
+    },
+    {
+        "title": "Sidebar",
+        "description": "Adds a sidebar to the Scratch website, rather than just the normal navigation bar at the top of the screen."
+    },
+    {
+        "title": "Ocular Links in Forums",
+        "description": "Adds a link to any user's Ocular page right below their username on a post."
+    },
+    {
+        "title": "Scratch Team Symbol in Forums",
+        "description": "Next to the username of any Scratch Team member in the forums, an asterisk (*) is placed at the end of their username."
+    },
+    {
+        "title": "Message Count",
+        "description": "On profiles, displays the user's message count next to their country."
+    },
+    {
+        "title": "Remove Editor Icons",
+        "description": "Removes the icons from the tabs in the editor."
+    },
+    {
+        "title": "Remove Sprite Watermark",
+        "description": "Removes the sprite watermark that shows in the editor."
+    },
+    {
+        "title": "Compact Editor",
+        "description": "Makes sprite and backdrop information more compact."
+    },
+    {
+        "title": "Right Side Flag",
+        "description": "Moves the green flag and the red stop sign to the right side of the stage."
+    },
+    {
+        "title": "Replace Scratch News with Recent Projects",
+        "description": "Replaces the Scratch News section on the homepage with your recently shared projects."
+    },
+    {
+        "title": "Hide Scratch News",
+        "description": "Hides the Scratch News section on the homepage of the Scratch website. This feature will interfere with the Replace Scratch News with Recent Projects feature if enabled."
+    },
+    {
+        "title": "Focus Mode",
+        "description": "Removes the comments, studio and remix column, header, and footer on project pages when the button is clicked."
+    }
+]
