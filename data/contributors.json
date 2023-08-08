@@ -34,6 +34,11 @@
     "link":"https://github.com/callumjt",
     "picture": "https://github.com/callumjt.png"
   },
+  "stiostudio":{
+    "type": ["review", "code", "ideas", "bugs"],
+    "link": "https://stio.studio",
+    "picture": "https://github.com/stiostudio.png"
+  },
   "lasted10":{
     "type":["ideas","bugs","code","community"],
     "link":"https://github.com/lasted10",
