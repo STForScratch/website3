@@ -14,15 +14,30 @@
     "link":"https://github.com/daniel4-scratch",
     "picture": "https://github.com/daniel4-scratch.png"
   },
+  "MaterArc":{
+    "type":["community","content", "design","review", "code"],
+    "link":"https://github.com/MaterArc",
+    "picture": "https://github.com/materarc.png"
+  },
   "mistysloth":{
     "type":["code","ideas","bugs","community","review","docs","content"],
     "link":"https://github.com/mistysloth",
     "picture": "https://github.com/mistysloth.png"
   },
-  "MaterArc":{
-    "type":["community","content", "design","review", "code"],
-    "link":"https://github.com/MaterArc",
-    "picture": "https://github.com/materarc.png"
+  "Wilamaxin":{
+    "type":["code"],
+    "link":"https://github.com/wilamaxin",
+    "picture": "https://github.com/wilamaxin.png"
+  },
+  "callumjt":{
+    "type":["community", "review"],
+    "link":"https://github.com/callumjt",
+    "picture": "https://github.com/callumjt.png"
+  },
+  "stiostudio":{
+    "type": ["review", "code", "ideas", "bugs"],
+    "link": "https://stio.studio",
+    "picture": "https://github.com/stiostudio.png"
   },
   "lasted10":{
     "type":["ideas","bugs","code","community"],
@@ -43,6 +58,11 @@
     "type":["code","ideas","review"],
     "link":"https://github.com/veloce-vasta",
     "picture": "https://github.com/veloce-vasta.png"
+  },
+  "nikeedev":{
+    "type":[],
+    "link":"https://github.com/nikeedev",
+    "picture": "https://github.com/nikeedev.png"
   },
   "Dr-Lego":{
     "type":["code"],
@@ -224,11 +244,6 @@
     "link":"https://scratch.mit.edu/users/yippymishy/",
     "picture": "https://cdn2.scratch.mit.edu/get_image/user/17815697_90x90.png?v="
   },
-  "callumjt":{
-    "type":["community"],
-    "link":"https://github.com/callumjt",
-    "picture": "https://github.com/callumjt.png"
-  },
   "XShrunk":{
     "type":["bugs","community"],
     "link":"https://github.com/xshrunk",
@@ -303,5 +318,22 @@
     "type":["answering"],
     "link":"https://github.com/CST1229",
     "picture": "https://github.com/cst1229.png"
+  },
+  "blob2763":{
+    "type":["community"],
+    "link":"https://github.com/Blob2763",
+    "picture": "https://github.com/Blob2763.png"
+  },
+  "Mechanical_coding":{
+    "type":["community"],
+    "link":"https://scratch.mit.edu/users/Mechanical_coding/",
+    "picture": "https://cdn2.scratch.mit.edu/get_image/user/92721201_90x90.png?v="
+  },
+  "palindromos":{
+    "type":["community"],
+    "link":"https://scratch.mit.edu/users/palindromos/",
+    "picture": "https://cdn2.scratch.mit.edu/get_image/user/62499947_90x90.png?v="
   }
 }
+
+
