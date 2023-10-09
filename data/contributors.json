@@ -31,7 +31,7 @@
   },
   "callumjt":{
     "type":["community", "review"],
-    "link":"https://github.com/callumjt",
+    "link":"https://callumjt.dev",
     "picture": "https://github.com/callumjt.png"
   },
   "stiostudio":{
@@ -318,5 +318,21 @@
     "type":["answering"],
     "link":"https://github.com/CST1229",
     "picture": "https://github.com/cst1229.png"
+  },
+  "blob2763":{
+    "type":["community"],
+    "link":"https://github.com/Blob2763",
+    "picture": "https://github.com/Blob2763.png"
+  },
+  "Mechanical_coding":{
+    "type":["community"],
+    "link":"https://scratch.mit.edu/users/Mechanical_coding/",
+    "picture": "https://cdn2.scratch.mit.edu/get_image/user/92721201_90x90.png?v="
+  },
+  "palindromos":{
+    "type":["community"],
+    "link":"https://scratch.mit.edu/users/palindromos/",
+    "picture": "https://cdn2.scratch.mit.edu/get_image/user/62499947_90x90.png?v="
   }
 }
+
